@@ -86,7 +86,10 @@ type UserWithAddress = User & {
 
 
 // Function call
-logMessage("message", "1");
+//logMessage("message", "1");
+
+
+
 
 
 
