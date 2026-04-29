@@ -92,6 +92,32 @@ type UserWithAddress = User & {
 
 
 
+//enum '
+
+//  enum orderstatus {
+//     pending, 
+//     done, 
+//     failed,
+//     delaied
+//  }
+//  let deliverystatus = orderstatus.pending;
+// //let userstatusss:orderstatud = orderstatud:pending; 
+// function getdelivery(status:orderstatus):string{
+//     switch(status){
+//         case:de orderstatus.pending;
+//         return " deliver is  pending";
+//         break;
+//         default:
+//             return "hii  order is processingn"
+//     }
+// }
+
+//touple
+
+type countindex = [number , number];
+
+
+
 
 
 

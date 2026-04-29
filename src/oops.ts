@@ -82,3 +82,17 @@ class manager extends employee{
 
 const manager1 = new manager("Alice", 1, "HR");
 console.log(manager1.displayInfo()); // Manager Name: Alice, ID: 1, Department: HR
+
+
+
+//abstract class 
+
+// abstract class shape{
+//     abstract area(): number;
+//     abstract perimeter(): number;
+// }
+
+
+
+
+
